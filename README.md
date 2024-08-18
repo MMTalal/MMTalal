@@ -9,7 +9,7 @@ Seeking a challenging career according to my academic background whereby I can a
 I am trying to develop in the field of programming, and I hope one day to be able to write a lot of code in multiple languages.
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on Namaa For Engineering Consultations
+👩‍💻 I'm currently working at Namaa For Engineering Consultations
 
 🧠 I'm currently learning GIS & Remote Sensing and Programming
 
