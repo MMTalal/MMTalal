@@ -16,3 +16,10 @@ I am trying to develop in the field of programming, and I hope one day to be abl
 ## 🛠 Skills
 C++, Python, HTML, CSS, Git & GitHub, SQL...
 
+## 🚀 Goals:
+Enhance GIS programming skills
+Explore advanced web mapping techniques
+Contribute to open-source GIS tools
+
+Feel free to connect or explore my repositories for innovative GIS solutions! 🌍
+
