@@ -14,5 +14,5 @@ I am trying to develop in the field of programming, and I hope one day to be abl
 🧠 I'm currently learning GIS & Remote Sensing and Programming
 
 ## 🛠 Skills
-Python, HTML, CSS, Git & GitHub, SQL...
+C++, Python, HTML, CSS, Git & GitHub, SQL...
 
