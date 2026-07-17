@@ -3,13 +3,18 @@
 # Hi, I'm Mahmoud! 😄
 
 ## 🚀 About Me
-I'm a Geographic Information Systems Analyst | QA/QC Data GIS | Mobile Mapping System specialist | Cartographer...
+I'm a GIS Team Leader | Geospatial Solutions | Mobile Mapping & Enterprise GIS Engineer | Cartographer...
 
-Seeking a challenging career according to my academic background whereby I can apply and develop my skills to build a long-term growing career and improve my experience in the GIS & RS & MMS field.
+GIS Team Leader with 8+ years of experience delivering enterprise GIS, mobile mapping, and geospatial data solutions across
+transportation, utilities, and infrastructure mega-projects in Egypt and Saudi Arabia. Proven track record leading teams of
+15+ specialists, automating GIS/ETL workflows with Python and FME, and managing large-scale mobile mapping (LiDAR, point
+cloud, 360° imagery) and Pavement Maintenance Management System (PMMS) programs. Skilled in ArcGIS Enterprise,
+geodatabase design, QA/QC governance, and cross-functional stakeholder coordination.
+
 I am trying to develop in the field of programming, and I hope one day to be able to write a lot of code in multiple languages.
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working at Namaa For Engineering Consultations
+👩‍💻 I'm currently working at Fixed Misr as a Senior GIS Specialist
 
 🧠 I'm currently learning GIS & Remote Sensing and Programming
 
